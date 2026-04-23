@@ -1,0 +1,22 @@
+[
+    {
+        "Nome": "F\u00e1bio Pacheco",
+        "Idade": 45,
+        "Cidade": "S\u00e3o Paulo"
+    },
+    {
+        "Nome": "Bruno Pezzolato",
+        "Idade": 34,
+        "Cidade": "S\u00e3o Caetano do Sul"
+    },
+    {
+        "Nome": "Arthur Buscarino",
+        "Idade": 42,
+        "Cidade": "S\u00e3o Bernardo do Campo"
+    },
+    {
+        "Nome": "Felipe Polegato",
+        "Idade": 38,
+        "Cidade": "Santo Andr\u00e9"
+    }
+]
